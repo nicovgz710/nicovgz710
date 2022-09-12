@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicovgz710
-- 👀 I’m interested in cybersecurity, artificial intelligence, blockchain, cryptocurrencies, space, football, formula 1 and many other things.
-- 🌱 I’m currently learning Javascript and React.js
+- 👀 I’m interested in programming, artificial intelligence, blockchain, cryptocurrencies, space, football, formula 1 and many other things.
+- 🌱 I’m currently learning to use Linux, manage databases, data structures and algorithms.
 - 📫 How to reach me: I´m always checking my e-mail! : nicovalsas@gmail.com
 
 <!---
