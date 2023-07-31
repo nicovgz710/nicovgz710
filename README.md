@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nicovgz710
+- 👋 Hi, I’m **@nicovgz710**
 - 👀 I’m interested in programming, artificial intelligence, blockchain, cryptocurrencies, space, football, formula 1 and many other things.
-- 🌱 I’m currently doing the Hack Academy Full Stack Developer bootcamp
-- 📫 How to reach me: I´m always checking my e-mail! : valsecchinicolas7@gmail.com
+- 🌱 I’m currently doing the **Hack Academy Full Stack Developer bootcamp**
+- 📫 **How to reach me:** I´m always checking my e-mail! : valsecchinicolas7@gmail.com
 
 
 <!---
